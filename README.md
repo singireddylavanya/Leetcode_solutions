@@ -22,6 +22,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -49,4 +50,28 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
