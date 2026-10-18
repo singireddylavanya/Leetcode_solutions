@@ -9,6 +9,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 | [0005-longest-palindromic-substring](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -21,11 +22,13 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,4 +41,12 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
