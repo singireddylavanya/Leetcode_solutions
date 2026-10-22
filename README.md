@@ -80,8 +80,13 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
