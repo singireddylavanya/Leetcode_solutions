@@ -10,6 +10,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 | [0125-valid-palindrome](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 | [0067-add-binary](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
