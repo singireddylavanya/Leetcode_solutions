@@ -84,6 +84,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 | ------- |
 | [0067-add-binary](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
 | ------- |
