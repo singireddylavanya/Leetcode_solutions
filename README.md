@@ -11,6 +11,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 | [0344-reverse-string](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 | ------- |
 | [0067-add-binary](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
+| [0633-sum-of-square-numbers](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 ## Enumeration
 |  |
 | ------- |
