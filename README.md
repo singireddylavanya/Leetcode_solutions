@@ -29,6 +29,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1534-count-good-triplets](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/1534-count-good-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
+| [1534-count-good-triplets](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/1534-count-good-triplets) |
 ## Number Theory
 |  |
 | ------- |
