@@ -20,6 +20,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 | [0006-zigzag-conversion](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Array
@@ -62,6 +63,7 @@ Python solutions to LeetCode problems covering Data Structures and Algorithms (D
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/singireddylavanya/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 ## Enumeration
